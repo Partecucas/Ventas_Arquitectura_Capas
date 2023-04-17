@@ -1,0 +1,10 @@
+C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaAccesoDatos\bin\Debug\MySql.Data.dll
