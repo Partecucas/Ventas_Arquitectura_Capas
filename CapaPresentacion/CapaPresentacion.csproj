@@ -107,5 +107,8 @@
   <ItemGroup>
     <None Include="Resources\mes.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wave-haikei.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -253,6 +253,21 @@ namespace CapaPresentacion
 
         }
 
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void txtSerial_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void cmbUnidadMedida_SelectionChangeCommitted(object sender, EventArgs e)
         {
             swunidadmedidad = false;
