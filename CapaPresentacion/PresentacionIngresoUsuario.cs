@@ -46,7 +46,7 @@ namespace CapaPresentacion
                     {
                         MessageBox.Show("Bienvenido");
                         this.Hide();
-                        PresentacionProductos frmproductos = new PresentacionProductos();
+                        PresentacionEquipo frmproductos = new PresentacionEquipo();
                         frmproductos.Show();
                     }
                     else

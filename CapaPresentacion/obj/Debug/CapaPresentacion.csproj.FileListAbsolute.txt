@@ -16,4 +16,4 @@ C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaPresentacion\obj\Debug\
 C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaPresentacion\bin\Debug\MySql.Data.dll
 C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
 C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
-C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaPresentacion\obj\Debug\CapaPresentacion.PresentacionProductos.resources
+C:\Users\SENA\Source\Repos\Ventas_Arquitectura_Capas\CapaPresentacion\obj\Debug\CapaPresentacion.PresentacionEquipo.resources

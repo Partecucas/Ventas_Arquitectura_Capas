@@ -17,15 +17,14 @@ namespace CapaAccesoDatos
             conexionBD.Open();
             MySqlCommand commando = new MySqlCommand("sp_AccesoUsuarios",conexionBD);
             commando.CommandType = CommandType.StoredProcedure;
-            commando.Parameters.AddWithValue("p_usuario", objEntidad.EntidadUsuario);
-            commando.Parameters.AddWithValue("p_clave", objEntidad.EntidadClave);
+            commando.Parameters.AddWithValue("E_usuario", objEntidad.EntidadUsuario);
+            commando.Parameters.AddWithValue("E_clave", objEntidad.EntidadClave);
             MySqlDataAdapter adaptador = new MySqlDataAdapter(commando);
             DataTable tablaDatosUsuario = new DataTable();
             adaptador.Fill(tablaDatosUsuario);
             conexionBD.Close();
             return tablaDatosUsuario;
-                }
-        //sapo
+           }
       }
     }
 

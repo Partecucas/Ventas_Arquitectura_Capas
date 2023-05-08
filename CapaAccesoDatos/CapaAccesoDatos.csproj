@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccesoDatosIngresoUsuario.cs" />
-    <Compile Include="Acceso_Datos_Productos.cs" />
+    <Compile Include="Acceso_Datos_Equipo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

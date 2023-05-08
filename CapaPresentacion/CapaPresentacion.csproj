@@ -48,11 +48,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PresentacionProductos.cs">
+    <Compile Include="PresentacionEquipo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PresentacionProductos.Designer.cs">
-      <DependentUpon>PresentacionProductos.cs</DependentUpon>
+    <Compile Include="PresentacionEquipo.Designer.cs">
+      <DependentUpon>PresentacionEquipo.cs</DependentUpon>
     </Compile>
     <Compile Include="PresentacionIngresoUsuario.cs">
       <SubType>Form</SubType>
@@ -65,8 +65,8 @@
     <EmbeddedResource Include="PresentacionIngresoUsuario.resx">
       <DependentUpon>PresentacionIngresoUsuario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PresentacionProductos.resx">
-      <DependentUpon>PresentacionProductos.cs</DependentUpon>
+    <EmbeddedResource Include="PresentacionEquipo.resx">
+      <DependentUpon>PresentacionEquipo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
